@@ -1,0 +1,6 @@
+
+Midnight Cigarettes
+1 day ago
+I got to finish the whole course and man I really like John's teaching style where he not only shows you how, but also shows you why. For example you can use, app.use() in Express to use a middleware, but he also tells you why you would use a middleware.
+
+I'm craving for more, that ending is quite the cliffhanger about the connection to a database 😂
